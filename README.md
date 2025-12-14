@@ -1,17 +1,27 @@
 # 👋🏻 Hi, I'm Aldous!
 
 ### 🤓 About Me
-I am **Benedict Aldous A. Abon**, a **BS Computer Engineering student** at the Technological Institute of the Philippines – Quezon City. I am passionate about **data science** and **software development**, and I strive to learn and improve my skills in these areas to contribute and start innovative projects and solving real world problems. I am also fond of **creative arts**, engaging in digital art, music production, and photography.
+<p align="center">
+  <img src="https://github.com/aldouzee/Abon_CPE311/blob/main/aldous.jpg?raw=true" width="300"/>
+</p>
 
-### 🧑🏻‍💻 Tech Stack
-<img align= "left" alt="cpp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align= "left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align= "left" alt="react" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>      
-<img align= "left" alt="html" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align= "left" alt="css" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align= "left" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+I am **Benedict Aldous A. Abon**, a **BS Computer Engineering student** at the Technological Institute of the Philippines – Quezon City. I am passionate about **data science** and **software development**, and I strive to improve my skills to contribute to innovative projects and develop solutions to real-world problems through technology.
 
-<br><br>
+### 🌱 Fun Facts
+* 🏆 Completed the Kumon math program at age 14
+* 🎸 Produces music - plays guitar and bass
+* 🐝 Tyler, the Creator fan - saw him live in September 2025
+* 📸 Runs a photography Instagram: **@pitiks2x.lng**
+* 🥇 Currently ranked Gold in Teamfight Tactics
+
+### 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### 📞 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aldouzee)
