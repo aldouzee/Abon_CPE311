@@ -11,7 +11,8 @@ I am **Benedict Aldous A. Abon**, a **BS Computer Engineering student** at the T
 * 🏆 Completed the Kumon math program at age 14
 * 🎸 Produces music - plays guitar and bass
 * 🐝 Tyler, the Creator fan - saw him live in September 2025
-* 📸 Runs a photography Instagram: **@pitiks2x.lng**
+* 📸 Runs a photography Instagram: **[@pitiks2x.lng](https://www.instagram.com/pitiks2x.lng?igsh=MTNodXJvOXY4a3VjNQ==)**
+
 * 🥇 Currently ranked Gold in Teamfight Tactics
 
 ### 💻 Tech Stack
@@ -27,6 +28,7 @@ I am **Benedict Aldous A. Abon**, a **BS Computer Engineering student** at the T
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aldouzee)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/baaabon05/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aldouzee)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/deuzeee?igsh=ODlpMjd3aGhmaTNy)
 
 ---
 
