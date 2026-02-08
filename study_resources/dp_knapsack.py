@@ -30,4 +30,4 @@ capacity = 7
 
 max_profit, items = knapsack(weights, profits, capacity)
 print("Maximum Profit:", max_profit)
-print("Items in Knapsack:", items)
+print("Items in Knapsack:", items)  
