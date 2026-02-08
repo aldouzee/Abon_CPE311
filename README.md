@@ -12,7 +12,7 @@ I am **Benedict Aldous A. Abon**, a **BS Computer Engineering student** at the T
 * 🎸 Produces music - plays guitar and bass
 * 🐝 Tyler, the Creator fan - saw him live in September 2025
 * 📸 Runs a photography Instagram: **[@pitiks2x.lng](https://www.instagram.com/pitiks2x.lng?igsh=MTNodXJvOXY4a3VjNQ==)**
-* 🥇 Currently ranked Gold in Teamfight Tactics
+* ♟️ Currently ranked Platinum in Teamfight Tactics
 
 ### 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
